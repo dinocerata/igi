@@ -1,0 +1,2 @@
+document.write("<div id='div_edukasi'><div id='div_atas' class='text_atas'><a title='Anggota Ikatan Guru Indonesia' href='http://anggota.igi.or.id' target='_blank'>ANGGOTA IGI</a></div><div id='div_tengah'><script src='http://feeds.feedburner.com/AnggotaIGI?format=sigpro' type='text/javascript'></script></div><div id='div_bawah' class='text_bawah'><a title='Pendaftaran IGI' href='http://anggota.igi.or.id/pendaftaran.html' target='_blank'>Pendaftaran</a></div></div>");
+
