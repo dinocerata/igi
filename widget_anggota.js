@@ -1,2 +1,2 @@
-document.write("<SCRIPT language='JavaScript' SRC='http://m-edukasi.googlecode.com/files/style.js'></SCRIPT>");
-document.write("<SCRIPT language='JavaScript' SRC='http://formulasi.googlecode.com/files/kode_formulasi.js'></SCRIPT>");
+document.write("<SCRIPT language='JavaScript' SRC='https://raw.githubusercontent.com/dinocerata/igi/gh-pages/igi_gaya.js'></SCRIPT>");
+document.write("<SCRIPT language='JavaScript' SRC='https://raw.githubusercontent.com/dinocerata/igi/gh-pages/igi_anggota.js'></SCRIPT>");
